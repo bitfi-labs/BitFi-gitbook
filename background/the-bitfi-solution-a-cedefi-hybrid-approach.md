@@ -22,3 +22,11 @@ While user assets are securely held under BitFi's custody solution, the received
 
 This innovative mechanism allows users to generate multiple layers of yield from a single asset, significantly improving capital efficiency.
 
+### bfBTC
+
+bfBTC is minted whenever BTC is bridged on-chain and locked under BitFi's custody. The protocol routes those assets through MirrorX-powered arbitrage, cross-chain liquidity provisioning, and DeFi staking, then feeds the resulting revenue back into the bfBTC pool. Because the exchange ratio grows with the revenue distributed to bfBTC holders, the token delivers a native BTC yield while remaining redeemable 1:1 for underlying BTC across multiple chains.
+
+### bfUSD
+
+bfUSD is a fully collateralized USD stablecoin minted against USDT and USDC using Chainlink-secured pricing. Holders can stake bfUSD into the Horizon pool (hbfUSD, low risk) or the Pulsar pool (pbfUSD, higher yield); both operate as ERC-4626 vaults and track a per-epoch ratio. Yield is distributed from protocol revenue, the insurance buffer, and cross-pool boosts (horizon revenue supports pulsar and pulsar principal backstops horizon drawdowns). Standard and instant redemption paths keep the peg while letting users collect 15%–22% target APYs depending on their risk profile.
+

@@ -31,3 +31,11 @@ BitFi aims to be the safest and most efficient CeDeFi yield platform, enabling e
   Multi-layer risk management, audited smart contracts, and institutional-grade custody partners.
 * **Strong Backing:**\
   Supported by **Fundamental Labs**, **CGV Fund**, **Hemi Labs**, **Citizen Journalists Network**, **IBC**, and other leading investors.
+
+### bfBTC
+
+bfBTC represents BitFi's native route for Bitcoin holders to unlock CeDeFi yields. The token is minted when BTC is bridged on-chain, then deployed into mirror trading, liquidity, and DeFi strategies coordinated by Ceffu's MirrorX engine. The resulting revenue—combined with protocol-level incentives—is distributed back to bfBTC holders, so the token's exchange ratio steadily grows while remaining redeemable 1:1 for native BTC across chains.
+
+### bfUSD
+
+bfUSD is a fully collateralized USD stablecoin minted from USDT and USDC with Chainlink-secured pricing. Holders can stake bfUSD into the low-risk Horizon pool (hbfUSD) or the higher-yield Pulsar pool (pbfUSD), each operating as ERC-4626 vaults with target APYs (15% for hbfUSD, 22% for pbfUSD). Yield stems from the pooled staking revenue, cross-pool insurance buffers, and boosted distributions from the Horizon pool, while redemption paths (standard and instant) preserve capital stability.
