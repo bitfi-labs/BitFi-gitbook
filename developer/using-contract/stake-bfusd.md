@@ -1,7 +1,3 @@
----
-icon: arrows-up-down
----
-
 # Stake bfUSD
 
 ## Overview
@@ -34,4 +30,4 @@ bfUSD is minted by depositing USDT or USDC into BitFi's stablecoin engine. USDT 
 
 ## Yield Notes
 
-hbfUSD (Horizon) is capped at 100 million shares and targets ~15% APY with smooth, non-drawdown ratio growth. pbfUSD (Pulsar) is capped at 2 million shares and targets ~22% APY while the share price may fluctuate; a portion of Horizon's revenue plus an insurance buffer supplements Pulsar, and Pulsar's principal backstops Horizon if the low-risk pool experiences a drawdown.
+hbfUSD (Horizon) is capped at 100 million shares and targets \~15% APY with smooth, non-drawdown ratio growth. pbfUSD (Pulsar) is capped at 2 million shares and targets \~22% APY while the share price may fluctuate; a portion of Horizon's revenue plus an insurance buffer supplements Pulsar, and Pulsar's principal backstops Horizon if the low-risk pool experiences a drawdown.

@@ -1,7 +1,3 @@
----
-icon: arrows-left-right
----
-
 # Redeem bfUSD
 
 ## Overview
